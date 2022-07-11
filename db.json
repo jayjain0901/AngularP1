@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Falafel",
+      "email": "falafels@gmail.com",
+      "mobile": "9594069264",
+      "address": "Panchseel Heights",
+      "services": "Bullets, pita"
+    },
+    {
+      "id": 2,
+      "name": "abc",
+      "email": "abcgmail.com",
+      "mobile": "9695069465",
+      "address": "abc road",
+      "services": "all"
+    },
+    {
+      "id": 3,
+      "name": "Papa Jain's",
+      "email": "papajains@gmail.com",
+      "mobile": "9594069264",
+      "address": "3/22, Parijat Apartment, Mahavir Nagar, Kandivali (W), Mumbai 400067.",
+      "services": "Piza"
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "mobile": "",
+      "email": "9594069262",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "test2",
+      "mobile": "9594069264",
+      "email": "jayjain@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Jay Jain",
+      "mobile": "9594069264",
+      "email": "jayjain0901@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
